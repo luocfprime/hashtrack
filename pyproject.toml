@@ -19,7 +19,7 @@ dynamic = ["dependencies"]
 dependencies = { file = ["requirements.txt"] }
 
 [project.urls]
-Github = "https://github.com/fkcptlst/hashtrack"
+Github = "https://github.com/luocfprime/hashtrack"
 
 # extra dependencies
 [project.optional-dependencies]

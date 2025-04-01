@@ -13,7 +13,7 @@ pip install hashtrack
 ### Install from Source
 
 ```bash
-git clone https://github.com/fkcptlst/hashtrack.git
+git clone https://github.com/luocfprime/hashtrack.git
 cd hashtrack
 pip install -e .
 ```
